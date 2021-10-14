@@ -1,0 +1,11 @@
+Model Information:
+* title:	Die On The Workplane
+* source:	https://sketchfab.com/3d-models/die-on-the-workplane-da7fe43ec5e443e7a78ebc13842db409
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Die On The Workplane" (https://sketchfab.com/3d-models/die-on-the-workplane-da7fe43ec5e443e7a78ebc13842db409) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

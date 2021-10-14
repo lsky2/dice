@@ -1,0 +1,297 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 151,
+      "max": [
+        4.557000160217285,
+        -14.996999740600586,
+        5.752999782562256
+      ],
+      "min": [
+        -4.557000160217285,
+        -15.996999740600586,
+        -5.421000003814697
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1812,
+      "componentType": 5126,
+      "count": 151,
+      "max": [
+        0.9999998211860657,
+        4.581551911542192e-05,
+        0.998201310634613
+      ],
+      "min": [
+        -0.9999972581863403,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 423,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3624,
+      "componentType": 5126,
+      "count": 129,
+      "max": [
+        4.0,
+        -1.2603000402450562,
+        -7.998000144958496
+      ],
+      "min": [
+        -5.197999954223633,
+        -12.470999717712402,
+        -8.998000144958496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5172,
+      "componentType": 5126,
+      "count": 129,
+      "max": [
+        1.0,
+        1.0,
+        2.1599591491394676e-05
+      ],
+      "min": [
+        -0.9999998211860657,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1692,
+      "componentType": 5125,
+      "count": 321,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6720,
+      "componentType": 5126,
+      "count": 1760,
+      "max": [
+        8.0,
+        -0.0,
+        7.0
+      ],
+      "min": [
+        -8.0,
+        -16.0,
+        -9.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27840,
+      "componentType": 5126,
+      "count": 1760,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2976,
+      "componentType": 5125,
+      "count": 5700,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "lsky (https://sketchfab.com/lsky)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/die-on-the-workplane-da7fe43ec5e443e7a78ebc13842db409",
+      "title": "Die On The Workplane"
+    },
+    "generator": "Sketchfab-11.87.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 25776,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48960,
+      "byteOffset": 25776,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 74736,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "color_3888547",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.231373,
+          0.333333,
+          0.639216,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "color_40919",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.623529,
+          0.843137,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "color_8768998",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.521569,
+          0.803922,
+          0.901961,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "tinker.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
